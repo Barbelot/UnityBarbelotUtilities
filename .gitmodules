@@ -13,3 +13,6 @@
 [submodule "OpticalFlow"]
 	path = OpticalFlow
 	url = https://github.com/Barbelot/Unity-OpticalFlow
+[submodule "Audio/Midi"]
+	path = Audio/Midi
+	url = https://github.com/Barbelot/Unity-Midi
