@@ -22,3 +22,6 @@
 [submodule "PostProcess/SketchDrawing"]
 	path = PostProcess/SketchDrawing
 	url = https://github.com/Barbelot/Unity-SketchDrawing
+[submodule "PostProcess/HybridKuwahara"]
+	path = PostProcess/HybridKuwahara
+	url = https://github.com/Barbelot/Unity-HybridKuwahara
