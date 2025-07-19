@@ -1,3 +1,6 @@
 [submodule "Klak"]
 	path = Klak
 	url = https://github.com/barbelot/klak
+[submodule "UnityBoids"]
+	path = UnityBoids
+	url = https://github.com/barbelot/unity-boids
