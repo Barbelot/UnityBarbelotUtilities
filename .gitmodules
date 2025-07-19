@@ -4,3 +4,9 @@
 [submodule "UnityBoids"]
 	path = UnityBoids
 	url = https://github.com/barbelot/unity-boids
+[submodule "FluidSimulation/3D-SPH"]
+	path = FluidSimulation/3D-SPH
+	url = https://github.com/Barbelot/Unity-FluidSimulation-3D-SPH
+[submodule "FluidSimulation/2D"]
+	path = FluidSimulation/2D
+	url = https://github.com/Barbelot/Unity-FluidSimulation-2D
