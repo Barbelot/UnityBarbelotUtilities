@@ -10,3 +10,6 @@
 [submodule "FluidSimulation/2D"]
 	path = FluidSimulation/2D
 	url = https://github.com/Barbelot/Unity-FluidSimulation-2D
+[submodule "OpticalFlow"]
+	path = OpticalFlow
+	url = https://github.com/Barbelot/Unity-OpticalFlow
