@@ -1,0 +1,3 @@
+[submodule "Klak"]
+	path = Klak
+	url = https://github.com/barbelot/klak
