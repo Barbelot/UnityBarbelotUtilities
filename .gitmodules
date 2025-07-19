@@ -16,3 +16,6 @@
 [submodule "Audio/Midi"]
 	path = Audio/Midi
 	url = https://github.com/Barbelot/Unity-Midi
+[submodule "HeightMapRayMarching"]
+	path = HeightMapRayMarching
+	url = https://github.com/Barbelot/Unity-HeightMapRayMarching
