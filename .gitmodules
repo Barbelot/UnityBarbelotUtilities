@@ -25,3 +25,9 @@
 [submodule "PostProcess/HybridKuwahara"]
 	path = PostProcess/HybridKuwahara
 	url = https://github.com/Barbelot/Unity-HybridKuwahara
+[submodule "Physarum/Physarum2D"]
+	path = Physarum/Physarum2D
+	url = https://github.com/barbelot/physarum2d
+[submodule "Physarum/Physarum3D"]
+	path = Physarum/Physarum3D
+	url = https://github.com/barbelot/physarum3D
